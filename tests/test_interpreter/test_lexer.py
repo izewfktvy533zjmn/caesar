@@ -3,7 +3,7 @@ import os
 import sys
 
 import pytest
-import lexer as lxr
+import interpreter.lexer as lxr
 
     
 def test_read():
